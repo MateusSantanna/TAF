@@ -4,8 +4,8 @@ Nesse projeto, contém 3 arquivos fundamentais para construção da lógica, as 
 
 Para passar no teste de Aptidão Física: 
 
-<li>Será coletado informações específicas dentro do Text Case</li>
-<li>Mandaria para o script corrigir aprovando ou reprovando no teste </li>
+<li>Será coletado informações específicas dentro do TestCase.txt</li>
+<li>Mandaria para o script.js corrigir aprovando ou reprovando no teste </li>
 <li>E o resultado final sairia do arquivo test.sh</li>
 
 <br>
