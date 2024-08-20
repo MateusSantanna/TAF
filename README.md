@@ -4,10 +4,11 @@ Nesse projeto, contém 3 arquivos fundamentais para construção da lógica, as 
 
 Para passar no teste de Aptidão Física: 
 
-/seria coletado informações específicas dentro do Text Case, 
-/Mandaria para o script corrigir aprovando ou reprovando no teste 
-/E o resultado final sairia do arquivo test.sh
+<li>Será coletado informações específicas dentro do Text Case</li>
+<li>Mandaria para o script corrigir aprovando ou reprovando no teste </li>
+<li>E o resultado final sairia do arquivo test.sh</li>
 
+<br>
 Lembrando que nesse teste, aprendi a usar condições, if e else, operações com ||(ou) e também com &&(e).
 
 <h1>Como Testar?</h1>
